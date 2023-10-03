@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  margin-top: 20px
+}
+table{
+  width: 40%;
+  margin: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border:2px solid black
+}
+button{
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  background-color:chartreuse;
+  border-radius: 5px;
 }
 
 .App-logo {
