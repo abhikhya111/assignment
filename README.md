@@ -21,7 +21,8 @@ Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ### `Flavenides Data`
-<img width="1432" alt="Screenshot 2023-10-01 at 11 42 13 PM" src="https://github.com/abhikhya111/assignment/assets/15895263/f9b684f2-3530-4bd6-852c-78626d171668">
+
+<img width="1432" alt="Screenshot 2023-10-03 at 10 57 18 PM" src="https://github.com/abhikhya111/assignment/assets/15895263/b21f2e6d-9845-481b-979e-f26454af8215">
 
 ### `Gamma Data`
 <img width="1432" alt="Screenshot 2023-10-03 at 11 00 30 PM" src="https://github.com/abhikhya111/assignment/assets/15895263/a75ba0ba-f4a3-406c-b078-0209a9a323a9">
