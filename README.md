@@ -26,3 +26,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### `Gamma Data`
 <img width="1432" alt="Screenshot 2023-10-03 at 11 00 30 PM" src="https://github.com/abhikhya111/assignment/assets/15895263/a75ba0ba-f4a3-406c-b078-0209a9a323a9">
 
+
